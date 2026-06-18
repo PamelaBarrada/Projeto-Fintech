@@ -33,3 +33,5 @@ MinhaCarteira/
 
 O layout foi construído mobile-first com os breakpoints do Tailwind CSS (`sm:`), adaptando grids de 3/4 colunas no desktop para 1/2 colunas em telas de celular.
 
+Acesso modelo web
+https://pamelabarrada.github.io/Projeto-Fintech/
